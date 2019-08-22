@@ -62,7 +62,7 @@ public class RaceSelection
           System.out.println("That is not a valid option.");
         }
       }
-      if (breed !=1 && breed !=2)
+      else if (breed !=1 && breed !=2)
       {
         System.out.println("That is not a valid option.");
       }
