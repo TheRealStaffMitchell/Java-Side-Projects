@@ -45,27 +45,27 @@ public class StatBuilder
       {
         strength++;
       }
-      //case for strength stat
+      //case for dexterity stat
       if (stat == 2)
       {
         dexterity++;
       }
-      //case for strength stat
+      //case for agility stat
       if (stat == 3)
       {
         agility++;
       }
-      //case for strength stat
+      //case for charisma stat
       if (stat == 4)
       {
         charisma++;
       }
-      //case for strength stat
+      //case for endurance stat
       if (stat == 5)
       {
         endurance++;
       }
-      //case for strength stat
+      //case for intelligence stat
       if (stat == 6)
       {
         intelligence++;
